@@ -53,7 +53,3 @@ Automated alerts for key social media trends.
 🤝 Contributing
 
 Feel free to fork this repository, report issues, or suggest improvements!
-
-📜 License
-
-This project is licensed.
